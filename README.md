@@ -70,7 +70,7 @@ only: 1
 ## 📌 How to Clone and Run
 1. Clone this repository:  
    ```bash
-   git clone https://git@github.com:code-iddih/test_solutions.git
+   git clone https://git@github.com:code-iddih/python_test_solutions.git
    ```
 2. Navigate into the folder:
    ```bash
