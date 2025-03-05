@@ -1,4 +1,3 @@
-```markdown
 # Python Tests Solutions
 
 This repository contains solutions to two Python test problems:
